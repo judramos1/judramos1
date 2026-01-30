@@ -6,6 +6,7 @@ href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Jr. Data Analyst</a>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/judramos1/SQL_Techniques/blob/main/README.md)
+  - [Demonstrating Advanced SQL Techniques](NEED NEW LINK)
 
 <h2>📚Certifications:</h2>
 
