@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Judy Carroll! <br/><a 
+href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Jr. Data Analyst</a>
+</h1>
 
-<!--
-**judramos1/judramos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>💾SQL Project</b>
+  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚Certifications:</h2>
+
+- <b>📜Beginner to Intermediate SQL Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=bad2e17f-66c9-40e4-b067-cecc88f4c8f8)
+
+
+<h2>📱Connect with me:</h2>
+<a href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE" target="_blank">
+  <img align="left" alt="Judy Carroll" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
