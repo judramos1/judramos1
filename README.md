@@ -6,7 +6,7 @@ href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Jr. Data Analyst</a>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/judramos1/SQL_Techniques/blob/main/README.md)
-  - [TEST Demonstrating Advanced SQL Techniques](NEED NEW LINK)
+  - [TEST Demonstrating Advanced SQL Techniques](https://github.com/judramos1/Adv_SQL_Techniques/edit/main/README.md)
 
 - <b>💾TEST Power BI Project</b>
   - [Demonstrating Power BI Techniques](NEED NEW LINK)
@@ -14,7 +14,10 @@ href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Jr. Data Analyst</a>
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=bad2e17f-66c9-40e4-b067-cecc88f4c8f8)
+  - [Demonstrated competency in Beginner to Intermediate SQL skills](NEED NEW LINK)
+
+- <b>📜Advance SQL Boot Camp</b>
+  - [Demonstrated competency in Advance SQL skills](https://www.virtualbadge.io/certificate-validator?credential=bad2e17f-66c9-40e4-b067-cecc88f4c8f8)
 
 
 <h2>📱Connect with me:</h2>
