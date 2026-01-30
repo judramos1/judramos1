@@ -1,5 +1,6 @@
 <h1>Hi, I'm Judy Carroll! <br/><a 
-href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Jr. Data Analyst</a>
+href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Jr. Data Analyst</a>, <a
+href=>Scrum Master</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
