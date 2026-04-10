@@ -8,7 +8,7 @@ href=>Scrum Master</a>
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/judramos1/SQL_Techniques/blob/main/README.md)
   - [TEST Demonstrating Advanced SQL Techniques](https://github.com/judramos1/Adv_SQL_Techniques/edit/main/README.md)
-  - [Demonstrating Advanced SQL Skills](https://github.com/judramos1/SQL_Techniques/blob/main/README.md)
+  - [Demonstrating Advanced SQL Skills](w)
 
 - <b>💾TEST Power BI Project</b>
   - [Demonstrating Power BI Techniques](NEED NEW LINK)
