@@ -8,7 +8,7 @@ href=>Scrum Master</a>
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/judramos1/SQL_Techniques/blob/main/README.md)
   - [TEST Demonstrating Advanced SQL Techniques](https://github.com/judramos1/Adv_SQL_Techniques/edit/main/README.md)
-  - [Demonstrating Advanced SQL Skills](w)
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/judramos1/Food_and_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
 - <b>💾TEST Power BI Project</b>
   - [Demonstrating Power BI Techniques](NEED NEW LINK)
