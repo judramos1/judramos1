@@ -23,8 +23,7 @@ href=>Scrum Master</a>
 
 <h2>📚Letter of Recommendation:</h2>
 
-- <b>📜Spring 2026 Tivoli + eXceleate Data Analytics Internship Training Program</b>
-  - [Demonstrated competency in Advance SQL skills](https://www.virtualbadge.io/certificate-validator?credential=bad2e17f-66c9-40e4-b067-cecc88f4c8f8)
+- <b>📜[Spring 2026 Tivoli + eXceleate Data Analytics Internship Training Program</b>](Skills.pdf)
 
 <h2>📱Connect with me:</h2>
 <a href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE" target="_blank">
