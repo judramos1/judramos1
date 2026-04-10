@@ -23,7 +23,7 @@ href=>Scrum Master</a>
 
 <h2>📚Letter of Recommendation:</h2>
 
-- <b>📜[Spring 2026 Tivoli + eXceleate Data Analytics Internship Training Program</b>](Judy R. Letter of Recommendation Draft.pdf)
+- <b>📜[Spring 2026 Tivoli + eXceleate Data Analytics Internship Training Program</b>](Judy_R_Letter_of_Recommendation.pdf)
 
 <h2>📱Connect with me:</h2>
 <a href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE" target="_blank">
