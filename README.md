@@ -6,6 +6,8 @@
 - <b>💾SQL Projects</b>
   - [Demonstrating SQL Techniques](https://github.com/judramos1/SQL_Techniques/blob/main/README.md)
   - [TEST Demonstrating Advanced SQL Techniques](https://github.com/judramos1/Adv_SQL_Techniques/edit/main/README.md)
+
+- <b>💾Intership</b>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/judramos1/Food_and_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
 - <b>💾TEST Power BI Project</b>
