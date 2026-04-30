@@ -16,7 +16,7 @@
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in Beginner to Intermediate SQL skills](https://app.virtualbadge.io/tmettza9/8tzr69ng)
+  - [Demonstrated competency in Beginner to Intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=5b9e1591-719b-464d-a24e-e6eaa51114f7)
 
 - <b>📜Advance SQL Boot Camp</b>
   - [Demonstrated competency in Advance SQL skills](https://www.virtualbadge.io/certificate-validator?credential=bad2e17f-66c9-40e4-b067-cecc88f4c8f8)
